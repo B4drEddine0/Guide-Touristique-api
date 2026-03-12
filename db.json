@@ -1,0 +1,50 @@
+{
+  "places": [
+    {
+      "id": "1",
+      "name": "Lagune de Marchica",
+      "category": "Sites naturels",
+      "shortDescription": "L'une des plus grandes lagunes de la Méditerranée occidentale, classée site d'intérêt biologique.",
+      "description": "La lagune de Marchica (Mar Chica) s'étend sur environ 25 km de long et 7 km de large, séparée de la mer Méditerranée par un cordon littoral.",
+      "coverImage": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "openingHours": {
+        "monday": "Accès libre",
+        "tuesday": "Accès libre",
+        "wednesday": "Accès libre",
+        "thursday": "Accès libre",
+        "friday": "Accès libre",
+        "saturday": "Accès libre",
+        "sunday": "Accès libre"
+      },
+      "prices": "Accès libre",
+      "address": "Bou Areg, rive sud de la lagune, Nador",
+      "isActive": true,
+      "createdAt": "2025-01-10T09:00:00.000Z",
+      "updatedAt": "2025-01-10T09:00:00.000Z"
+    }
+  ],
+
+  "subscribers": [
+    {
+      "id": "1",
+      "firstName": "Yassine",
+      "email": "yassine@example.com",
+      "status": "active",
+      "createdAt": "2025-02-01T09:30:00.000Z"
+    }
+  ],
+
+  "events": [
+    {
+      "id": "1",
+      "title": "Festival de la Corniche",
+      "date": "2026-06-12",
+      "location": "Marchica",
+      "description": "Animation culturelle et musicale en soirée.",
+      "status": "active"
+    }
+  ]
+}
